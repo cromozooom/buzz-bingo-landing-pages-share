@@ -1,5 +1,7 @@
 # landing-pages-share
 
+The sources are in the "page1" folder
+
 ## [test this](https://goo.gl/CXTwZU)
 
 [PAGE 1](https://rawgit.com/cromozooom/buzz-bingo-landing-pages-share/master/page1/index.html)
